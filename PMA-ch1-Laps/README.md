@@ -1,4 +1,3 @@
-# Chapter "1" Laps
 # Static Analysis
 
 ## SillyPutty:
