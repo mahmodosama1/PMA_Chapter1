@@ -37,6 +37,7 @@
 
 ##Lao 01-04:
 1. As usuall in this chapter it has been caught as malicious software by 57 antiviruse. ![Alt text](4.png)
-2. According to **PEid** it's a microsoft visual C++ file.  ![Alt text](44.png)
+2. According to **PEid** it's a microsoft visual C++ file.                                                                                                          
+   ![Alt text](44.png)
 3. Using **PEview** it looks like it was compiled on 30/8/2019 .![Alt text](444.png)
 4. As I mentioned in Lap 01-01 Q4.
