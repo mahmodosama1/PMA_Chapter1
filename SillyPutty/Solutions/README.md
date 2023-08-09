@@ -1,7 +1,7 @@
 ## SillyPutty:
 1. the sha256 hashcode is "90e8c97bedc9f7ae82dccc7c0210bab010a090f183df68b4c7f3a85e92fccd8a".
 2. By using **PEstudio** it looks like it's a 32-bit archtiture. 
-![Images/Q2.png](option 1)
+   ![Images/Q2.png](option 1)
 _______________________________________________________________________________________
    ![https://github.com/mahmodosama1/PMA_Chapter1/blob/ffc77648fb67ed37c530efe176ab51bd08f7185d/Images/Q2.png](option 2)
    
